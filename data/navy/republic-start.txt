@@ -7,6 +7,8 @@
 # Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+# this is the free wolds questing going to be changed for navy. 
+# used this a a template so the the quest sizes will be about the same .
 
 mission "Navy Recon 0"
 	name "Free Worlds Reconnaissance"
